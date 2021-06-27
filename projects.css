@@ -1,0 +1,38 @@
+
+.navbar{
+    background-color: blue;
+    border: 7.5px;
+    border-style:double;
+    border-color:chartreuse;
+    font-size: 20px;
+    font-family: "segoe UI", 'Segoe UI', Tahoma, sans-serif;
+    position: sticky;
+    top: 0px;
+}
+.navbar{
+    background-color: blue;
+    border: 7.5px;
+    border-style:double;
+    border-color:chartreuse;
+    font-size: 20px;
+    font-family: "segoe UI", 'Segoe UI', Tahoma, sans-serif;
+    position: sticky;
+    top: 0px;
+}
+body{
+    background-image: url(../img/blue\ background.png);
+}
+header{
+    background: #000080;
+    color: #FFFAFF;
+    text-align: center;
+    font-size: 50px;
+    border: 5px solid #FFFAFF;
+}
+.active{
+    background-color: lightcoral;
+}
+.navbar th{
+    border: crimson solid 4px;
+    padding: 5.5px;
+}

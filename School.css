@@ -1,0 +1,31 @@
+.navbar{
+    background-color: blue;
+    border: 7.5px;
+    border-style:double;
+    border-color:chartreuse;
+    font-size: 20px;
+    font-family: "segoe UI", 'Segoe UI', Tahoma, sans-serif;
+    position: sticky;
+    top: 0px;
+}
+.active{
+    background-color: lightcoral;
+}
+.navbar th{
+    border: crimson solid 4px;
+    padding: 5.5px;
+}
+.dropdown {
+    display:inline-block;
+}
+.dropdown-content {
+    display:none;
+    position: absolute;
+    background-color: #FFFAFF;
+    color: #000080;
+    padding:5px;
+    box-shadow: 5px 5px 20px midnightblue;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
